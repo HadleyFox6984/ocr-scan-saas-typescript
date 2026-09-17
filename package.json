@@ -1,0 +1,1 @@
+{"name":"ocr-scan-saas-typescript","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","test":"tsx --test test/ocr_service.test.ts","start":"tsx src/ocr_service.ts"},"dependencies":{"zod":"^3.23.0"},"devDependencies":{"@types/node":"^22.0.0","tsx":"^4.19.0","typescript":"^5.6.0"}}
